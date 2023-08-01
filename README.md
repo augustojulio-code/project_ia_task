@@ -1,7 +1,7 @@
 # project_ia_task
 
-Flutter project consuming ChatGPT API
+Flutter project consuming ChatGPT API and testing flutter
 
-## Getting Started
+
 
 
